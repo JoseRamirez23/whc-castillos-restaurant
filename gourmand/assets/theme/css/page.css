@@ -1,0 +1,1005 @@
+.clear,
+.clearfix {
+  clear: both;
+}
+.mythemes-page {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+@media (max-width: 782px) {
+  .mythemes-page {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+}
+.mythemes-page p {
+  font-size: 15px;
+  line-height: 28px;
+  margin: 25px 0px;
+}
+.mythemes-page ul,
+.mythemes-page ol {
+  font-size: 16px;
+  line-height: 28px;
+  line-height: 38px;
+  margin: 30px 0 0 4%;
+  padding: 0;
+}
+.mythemes-page ul li,
+.mythemes-page ol li {
+  margin: 10px 0;
+  padding: 0 0 0 3%;
+}
+.mythemes-page ul li ul,
+.mythemes-page ol li ul,
+.mythemes-page ul li ol,
+.mythemes-page ol li ol {
+  margin-top: 0px;
+}
+.mythemes-page ul,
+.mythemes-page ul li {
+  list-style: square;
+}
+.mythemes-page pre {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: #000000;
+  display: block;
+  padding: 8px 12px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.mythemes-page .mythemes-page-header {
+  min-height: 65px;
+}
+.mythemes-page .mythemes-page-header .mythemes-columns-wrapper {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.mythemes-page .mythemes-page-header .mythemes-topper {
+  background-color: #047fe3;
+  min-height: 4px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle {
+  background-color: #232323;
+  min-height: 30px;
+  padding: 8px 0px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle h1.mythemes-brand {
+  font-family: Montserrat, sans-serif, Arial, serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0px;
+  padding: 0px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle h1.mythemes-brand a {
+  color: #ffffff;
+  display: block;
+  padding: 3px 0px;
+  text-decoration: none;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav {
+  text-align: right;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list {
+  display: inline-block;
+  margin: 0px;
+  list-style: none;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list li {
+  display: block;
+  font-family: Roboto, sans-serif, Arial, serif;
+  font-size: 12px;
+  font-weight: 400;
+  float: left;
+  line-height: 30px;
+  list-style: none;
+  margin: 0px 8px;
+  min-width: 80px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list li a {
+  color: #7c7c7c;
+  display: block;
+  width: 100%;
+  text-decoration: none;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list li a:hover {
+  color: #999999;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav {
+  margin-left: 19px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li {
+  background-color: #333333;
+  padding: 1px 15px;
+  margin-left: 1px;
+  margin-right: 0px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li a {
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.8);
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li a:hover {
+  color: #ffffff;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li a i {
+  float: left;
+  margin-right: 7px;
+  margin-top: 8px;
+  font-size: 130%;
+  line-height: 16px;
+}
+@media (max-width: 480px) {
+  .mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li a i {
+    margin-right: 0px;
+  }
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li a.mythemes-upgrade {
+  text-transform: uppercase;
+}
+@media (max-width: 480px) {
+  .mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li a span {
+    display: none;
+  }
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li:first-child {
+  -webkit-border-top-left-radius: 3px;
+  -moz-border-top-left-radius: 3px;
+  border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-bottom-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li:last-child {
+  background-color: #047fe3;
+  -webkit-border-top-right-radius: 3px;
+  -moz-border-top-right-radius: 3px;
+  border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-bottom-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.mythemes-page .mythemes-page-header .mythemes-middle nav.mythemes-nav ul.mythemes-list.special-nav li:first-child:last-child {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.mythemes-page .mythemes-page-header .mythemes-poor {
+  background-color: #333333;
+  min-height: 15px;
+}
+.mythemes-page .mythemes-blank {
+  text-align: right;
+  padding: 11px 10px;
+}
+.mythemes-page .mythemes-blank .mythemes-author-description {
+  color: #888888;
+  font-size: 12px;
+  line-height: 18px;
+  float: left;
+}
+@media (max-width: 991px) {
+  .mythemes-page .mythemes-blank .mythemes-author-description {
+    float: none;
+    display: block;
+    margin: 8px 0px 15px 0px;
+    text-align: left;
+  }
+}
+.mythemes-page .mythemes-blank .mythemes-author-description a {
+  color: #888888;
+  font-size: 13px;
+  margin: 0px;
+}
+.mythemes-page .mythemes-blank .mythemes-author-description a:hover {
+  color: #000000;
+}
+.mythemes-page .mythemes-blank a {
+  font-family: "Open Sans", sans-serif, Arial, serif;
+  font-size: 11px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #454545;
+  text-decoration: none;
+}
+.mythemes-page .mythemes-blank a:hover {
+  color: #000000;
+}
+.mythemes-page .mythemes-blank a strong {
+  font-weight: 600;
+}
+@media (max-width: 991px) {
+  .mythemes-page .mythemes-blank a {
+    float: none;
+    display: block;
+    margin: 15px 0px 8px 0px;
+    text-align: left;
+  }
+}
+.mythemes-page .mythemes-page-content-footer {
+  border-top: 1px solid #e3e3e3;
+  border-bottom: 1px solid #e3e3e3;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin: 20px 10px 10px 10px;
+  text-align: center;
+}
+@media (max-width: 480px) {
+  .mythemes-page .mythemes-page-content-footer a.mythemes-button.mythemes-reset-options,
+  .mythemes-page .mythemes-page-content-footer input[type="submit"] {
+    width: 100%;
+    margin: 12px 0px 12px 0px;
+    text-align: center;
+  }
+}
+.mythemes-section .mythemes-section-header {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.mythemes-section .mythemes-section-header h1.mythemes-section-title {
+  color: #000000;
+  font-size: 36px;
+  line-height: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.mythemes-section .mythemes-section-header p.mythemes-section-description {
+  color: #666666;
+  font-size: 16px;
+  text-align: center;
+}
+.mythemes-section .mythemes-section-header p {
+  font-size: 14px;
+}
+.mythemes-section .mythemes-section-content a.zeon-image {
+  display: block;
+  margin: 0px auto;
+  max-width: 945px;
+}
+.mythemes-section .mythemes-section-content a.zeon-image img {
+  display: block;
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper {
+  text-align: center;
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper .mythemes-child {
+  display: inline-block;
+  margin: 25px;
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper .mythemes-child a.child-thumbnail {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper .mythemes-child a.child-thumbnail:before {
+  background: rgba(0, 0, 0, 0.03);
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper .mythemes-child a.child-thumbnail img {
+  display: block;
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper .mythemes-child a.child-thumbnail:hover {
+  -webkit-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.18);
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.18);
+}
+.mythemes-section .mythemes-section-content .mythemes-child-wrapper .mythemes-child a.child-thumbnail:hover:before {
+  background: rgba(0, 0, 0, 0);
+}
+.mythemes-columns-wrapper {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+.mythemes-columns-wrapper .mythemes-column {
+  padding-left: 10px;
+  padding-right: 10px;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media (min-width: 783px) {
+  .lg-1 {
+    width: 8.33333333%;
+  }
+  .lg-2 {
+    width: 16.66666666%;
+  }
+  .lg-3 {
+    width: 25%;
+  }
+  .lg-4 {
+    width: 33.33333333%;
+  }
+  .lg-5 {
+    width: 41.66666666%;
+  }
+  .lg-6 {
+    width: 50%;
+  }
+  .lg-7 {
+    width: 58.33333333%;
+  }
+  .lg-8 {
+    width: 66.66666666%;
+  }
+  .lg-9 {
+    width: 75%;
+  }
+  .lg-10 {
+    width: 83.33333333%;
+  }
+  .lg-11 {
+    width: 91.66666666%;
+  }
+  .lg-12 {
+    width: 100%;
+  }
+}
+@media (min-width: 601px) and (max-width: 782px) {
+  .md-1 {
+    width: 8.33333333%;
+  }
+  .md-2 {
+    width: 16.66666666%;
+  }
+  .md-3 {
+    width: 25%;
+  }
+  .md-4 {
+    width: 33.33333333%;
+  }
+  .md-5 {
+    width: 41.66666666%;
+  }
+  .md-6 {
+    width: 50%;
+  }
+  .md-7 {
+    width: 58.33333333%;
+  }
+  .md-8 {
+    width: 66.66666666%;
+  }
+  .md-9 {
+    width: 75%;
+  }
+  .md-10 {
+    width: 83.33333333%;
+  }
+  .md-11 {
+    width: 91.66666666%;
+  }
+  .md-12 {
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  .sm-1 {
+    width: 8.33333333%;
+  }
+  .sm-2 {
+    width: 16.66666666%;
+  }
+  .sm-3 {
+    width: 25%;
+  }
+  .sm-4 {
+    width: 33.33333333%;
+  }
+  .sm-5 {
+    width: 41.66666666%;
+  }
+  .sm-6 {
+    width: 50%;
+  }
+  .sm-7 {
+    width: 58.33333333%;
+  }
+  .sm-8 {
+    width: 66.66666666%;
+  }
+  .sm-9 {
+    width: 75%;
+  }
+  .sm-10 {
+    width: 83.33333333%;
+  }
+  .sm-11 {
+    width: 91.66666666%;
+  }
+  .sm-12 {
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  [class^="lg-"],
+  [class*="lg-"],
+  [class^="md-"],
+  [class*="md-"],
+  [class^="sm-"],
+  [class*="sm-"] {
+    width: 100%;
+  }
+}
+body.appearance_page_gourmand-about {
+  background: #f3f5f8;
+}
+body.appearance_page_gourmand-about div#wpbody {
+  background: #ffffff;
+  margin-left: -20px;
+}
+body.appearance_page_gourmand-about div#wpbody div#wpbody-content {
+  padding: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section {
+  padding: 40px 30px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section a {
+  color: #177bd7;
+  font-weight: 400;
+  text-decoration: none;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section a:hover {
+  color: #000000;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  outline: none;
+  outline: 0 none \9;
+  outline: unset;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 0;
+  filter: -;
+  background: #0488f3;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border: 0;
+  color: #fff;
+  display: inline-block;
+  padding: 11px 30px;
+  margin: 10px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: .65px;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+  -webkit-border-radius: 46px;
+  -moz-border-radius: 46px;
+  border-radius: 46px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  -webkit-box-shadow: 0 4px 12px 0 rgba(4, 136, 243, 0.4);
+  -moz-box-shadow: 0 4px 12px 0 rgba(4, 136, 243, 0.4);
+  box-shadow: 0 4px 12px 0 rgba(4, 136, 243, 0.4);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn:hover,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn:active,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn:focus,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn:visited {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  outline: none;
+  outline: 0 none \9;
+  outline: unset;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 0;
+  filter: -;
+  color: #ffffff;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn i {
+  margin-right: 10px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn:hover {
+  background: #333333;
+  color: #ffffff;
+  -webkit-box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.4);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn small {
+  display: block;
+  margin-top: -5px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn.large {
+  padding: 11px 36px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .mythemes-btn.small {
+  padding: 8px 22px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols {
+  padding: 0px 0px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols .item-col {
+  padding: 0px 20px;
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols.cols-2 .item-col {
+  width: 50%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols.cols-3 .item-col {
+  width: 33.33333333%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols.cols-4 .item-col {
+  width: 25%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols.cols-5 .item-col {
+  width: 20%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section .cols:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header {
+  text-align: center;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header h1.theme-name {
+  color: #000000;
+  font-size: 32px;
+  line-height: 42px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: .76px;
+  margin: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header h1.theme-name sup {
+  color: #2697f3;
+  position: absolute;
+  font-size: 40%;
+  letter-spacing: -0.45px;
+  padding-left: 7px;
+  margin-top: -5px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header h2.theme-short-desc {
+  color: #000000;
+  display: block;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 500;
+  text-transform: none;
+  margin-bottom: -8px;
+  margin-top: 13px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header p.theme-desc {
+  color: #999;
+  margin-top: 13px;
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 385px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .buttons {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper {
+  width: 940px;
+  max-width: 100%;
+  display: inline-block;
+  margin-top: 0px auto;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  -webkit-box-shadow: 0 15px 45px -5px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 15px 45px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 15px 45px -5px rgba(0, 0, 0, 0.2);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner {
+  position: relative;
+  display: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  outline: none;
+  outline: 0 none \9;
+  outline: unset;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 0;
+  filter: -;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner.slick-slide {
+  display: block;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.mask {
+  position: absolute;
+  display: block;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  background: -webkit-linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+  background: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+  background: -ms-linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+  background: -o-linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.mask:hover,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.mask:active,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.mask:focus,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.mask:visited {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  outline: none;
+  outline: 0 none \9;
+  outline: unset;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 0;
+  filter: -;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner:hover a.mask {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.see-demo {
+  background: rgba(255, 255, 255, 0);
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  position: absolute;
+  display: inline-block;
+  line-height: 18px;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 11px 20px;
+  right: -160px;
+  bottom: 40px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  outline: none;
+  outline: 0 none \9;
+  outline: unset;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 0;
+  filter: -;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner a.see-demo:hover {
+  background: #ffffff;
+  border: 2px solid #ffffff;
+  color: rgba(0, 0, 0, 0.8);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .gourmand-banner:hover a.see-demo {
+  right: 40px;
+  bottom: 40px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper.slick-dotted.slick-slider {
+  margin-bottom: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .slick-dots {
+  display: block;
+  top: -46px;
+  bottom: initial;
+  font-size: 0px;
+  line-height: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .slick-dots li {
+  margin: 0px 12px;
+  width: 16px;
+  height: 16px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .slick-dots li button {
+  width: 16px;
+  height: 16px;
+  font-size: 0px;
+  line-height: 0px;
+  color: transparent;
+  background: #555555;
+  border: 3px solid #ffffff;
+  -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .slick-dots li button:before {
+  color: transparent;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.header .gourmand-banner-wrapper .slick-dots li.slick-active button {
+  background: #0488f3;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs {
+  background: #f3f5f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation {
+  text-align: center;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul {
+  display: inline-block;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul li {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  padding: 0 0 0 30px;
+  margin: 0 0 0 30px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul li:first-child {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul li.current a {
+  color: #000000;
+  text-decoration: underline;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul li.current a:hover,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul li.current a:focus,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation ul li.current a:active {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  outline: none;
+  outline: 0 none \9;
+  outline: unset;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 0;
+  filter: -;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-navigation a {
+  font-size: 16px;
+  line-height: 22px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .tabs-item {
+  display: none;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .tabs-item.current {
+  display: block;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started h2,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-faq h2 {
+  color: #000000;
+  font-weight: normal;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started p,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-faq p {
+  color: #999999;
+  font-size: 14px;
+  line-height: 24px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started p strong,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-faq p strong {
+  color: #454545;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started a.mythemes-btn {
+  margin: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started a.mythemes-btn.customize i {
+  font-size: 122%;
+  margin-right: 12px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started a.mythemes-btn.setup i {
+  font-size: 122%;
+  margin-bottom: -2px;
+  float: left;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-getting-started p.recommended-action {
+  color: #000000;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-useful-plugins p.plugin-message {
+  color: #999;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-faq .faq-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 860px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-faq .faq-wrapper .faq-item {
+  margin-top: 40px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content #gourmand-faq .faq-wrapper .faq-item:first-child {
+  margin-top: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro {
+  width: 100%;
+  border: none;
+  border-collapse: collapse;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro p {
+  color: #999999;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro td,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro th {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro td.status,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro th.status {
+  width: 12%;
+  text-align: center;
+  vertical-align: middle;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro td.status i.gourmand-icon-ok-6,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro th.status i.gourmand-icon-ok-6 {
+  color: #00a878;
+  font-size: 160%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro td.status i.gourmand-icon-cancel-7,
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro th.status i.gourmand-icon-cancel-7 {
+  color: #ff3439;
+  font-size: 160%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content table.free-vs-pro tbody tr {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content div.upgrade-call-action {
+  text-align: right;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content div.upgrade-call-action p {
+  display: block;
+  margin: 30px 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content div.upgrade-call-action a.mythemes-btn {
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content div.upgrade-call-action a.mythemes-btn small {
+  text-transform: none;
+  font-size: 11px;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper {
+  padding: 0px;
+  margin: 0px -20px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper {
+  width: 50%;
+  padding: 20px 20px;
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card {
+  clear: none;
+  width: 100%;
+  margin: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content {
+  padding: 20px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-identity img {
+  float: left;
+  max-width: 65px;
+  height: auto;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-identity:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-details {
+  margin-left: 85px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-details strong {
+  display: block;
+  font-size: 18px;
+  line-height: 32px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-details span {
+  display: block;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content p {
+  color: #999999;
+  margin: 20px 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-action .mythemes-btn {
+  margin: 0px;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper .plugin-card .plugin-content .plugin-action .mythemes-btn:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper .plugin-card-wrapper img {
+  max-width: 100%;
+}
+body.appearance_page_gourmand-about div#wpbody section.gourmand-section.about-tabs .tabs-content .plugin-cards-wrapper:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}

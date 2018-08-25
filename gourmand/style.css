@@ -1,0 +1,163 @@
+/*
+Theme Name: Gourmand
+Theme URI: http://mythem.es/item/gourmand/
+Description: See our demo: https://goo.gl/yWy3AG Gourmand is clean food WordPress Theme with a beautiful responsive design and Powerful Features. This is a WordPress food Solution with a lot of ready one click Setup Custom Sections ( for food or not food business ) and many others Features. Most important is what you not need Code Knowledges to Grow Up your Business or Startup. Gourmand is an user friendly solution with many business tools for food and not food business. All you need to do is just install follow recommended actions from Admin Dashboard › About Gourmand. Gourmand WordPress food Solutions features: business tools like e-mail address, contact phone and contact address; custom header with header image, header video and header google map; full customizable navigation; custom google fonts; ready custom sections: about us, features, call action, services, chef menu, testimonials, reservation ( book a table ), Latest news and contact; custom posts food menus to build and manage the menu dishes and put dishes in different food sides like breakfast, bunch, dinner and others; custom footer with social links, dark footer widgets ( 1 - 6 columns ) and copyright. So, Gourmand Solutions are a Better Choice for your website and your choice is greatly appreciated! You can use use these solutions for you reastaurant or other food business and also for a not food business. See our demo: https://goo.gl/yWy3AG
+Version: 0.0.14
+Tags: two-columns, left-sidebar, right-sidebar, custom-colors, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, food-and-drink, news
+Text Domain: gourmand
+Domain Path: /languages
+Author: myThem.es
+Author URI: http://mythem.es/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+    Gourmand, Copyright 2018 myThem.es ( email: gourmand at mythem.es )
+    Gourmand is distributed under the terms of the GNU GPLv2
+
+
+                     ________________
+                    |_____    _______|
+     ___ ___ ___   __ __  |  |  __       ____   ___ ___ ___       ____   ____
+    |   |   |   | |_ |  | |  | |  |___  |  __| |   |   |   |     |  __| |  __|
+    |   |   |   |  | |  | |  | |  __  | |  __| |   |   |   |  _  |  __| |__  |
+    |___|___|___|   |  |  |__| |_ ||_ | |____| |___|___|___| |_| |____| |____|
+                    |_|
+
+
+                         myThem.es Marketplace provides WordPress themes with
+                                    the best quality and the smallest prices.
+
+
+
+
+*/
+
+/* ALIGN TEXT */
+.align-none{
+    text-align: none;
+}
+.align-left{
+    text-align: left;
+}
+.align-center{
+    text-align: center;
+}
+.align-justify{
+    text-align: justify;
+}
+.align-right{
+    text-align: right;
+}
+
+/* WORDPRESS */
+.alignleft,
+.alignright{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.alignnone,
+.aligncenter{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.alignleft{
+    float:left;
+    margin-right: 15px;
+}
+.alignright{
+    float:right;
+    margin-left: 15px;
+}
+.aligncenter{
+    clear:both;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+.sticky,
+.gallery-caption,
+.screen-reader-text,
+.bypostauthor{}
+
+.wp-caption,
+.wp-caption p{
+    color: #ababab;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    max-width: 100% !important;
+}
+section .wp-caption p,
+section .wp-caption p.wp-caption-text{
+    color: #ababab;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 16px 0px 32px 0px;
+}
+
+@media ( max-width: 991px ){
+    section .wp-caption p,
+    section .wp-caption p.wp-caption-text{
+        margin: 15px 0px 30px 0px;
+    }
+}
+@media ( max-width: 767px ){
+    section .wp-caption p,
+    section .wp-caption p.wp-caption-text{
+        margin: 14px 0px 28px 0px;
+    }
+}
+@media ( max-width: 540px ){
+    section .wp-caption p,
+    section .wp-caption p.wp-caption-text{
+        margin: 13px 0px 26px 0px;
+    }
+}
+@media ( max-width: 480px ){
+    section .wp-caption p,
+    section .wp-caption p.wp-caption-text{
+        margin: 12px 0px 24px 0px;
+    }
+}
+.wp-caption img{
+    display: block;
+    margin: 0px auto;
+    max-width: 100% !important;
+}
+
+div.gallery dl.gallery-item img,
+div.gallery dl.gallery-item img a{
+    border: none !important;
+}
+
+.gallery-caption{
+    color: #ababab;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 16px 0px 32px 0px;
+}
+
+@media ( max-width: 991px ){
+    .gallery-caption{
+        margin: 15px 0px 30px 0px;
+    }
+}
+@media ( max-width: 767px ){
+    .gallery-caption{
+        margin: 14px 0px 28px 0px;
+    }
+}
+@media ( max-width: 540px ){
+    .gallery-caption{
+        margin: 13px 0px 26px 0px;
+    }
+}
+@media ( max-width: 480px ){
+    .gallery-caption{
+        margin: 12px 0px 24px 0px;
+    }
+}

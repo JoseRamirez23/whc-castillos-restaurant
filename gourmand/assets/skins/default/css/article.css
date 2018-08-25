@@ -1,0 +1,952 @@
+.standard-view article {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+.standard-view article h1.title {
+  font-size: 40px;
+  line-height: 44px;
+}
+.standard-view article h2.subtitle {
+  font-size: 24px;
+  line-height: 30px;
+  margin: 30px 0px 12px 0px;
+}
+@media (max-width: 991px) {
+  .standard-view article h2.subtitle {
+    font-size: 22px;
+    line-height: 28px;
+    margin-top: 26px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article h2.subtitle {
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 22px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article h2.subtitle {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article h2.subtitle {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 18px;
+  }
+}
+.standard-view article h2.title {
+  font-size: 32px;
+  line-height: 38px;
+}
+.standard-view article p.description {
+  width: 100%;
+  max-width: 440px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: .25px;
+  font-weight: lighter;
+  margin: 30px auto;
+}
+.standard-view article h1.title + h2.subtitle + p.description {
+  margin-top: 12px;
+}
+.standard-view article h1.title + h2.subtitle + p.description + div.hentry {
+  margin-top: 40px;
+}
+@media (max-width: 991px) {
+  .standard-view article h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 32px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 28px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 26px;
+  }
+}
+.standard-view article h1.title,
+.standard-view article h2.title {
+  max-width: 680px;
+  letter-spacing: -0.15px;
+  margin-top: 40px;
+}
+.standard-view article h1.title a,
+.standard-view article h2.title a {
+  color: #233141;
+}
+.standard-view article h1.title a:hover,
+.standard-view article h2.title a:hover {
+  color: #000000;
+}
+@media (max-width: 1199px) {
+  .standard-view article h1.title,
+  .standard-view article h2.title {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article h1.title,
+  .standard-view article h2.title {
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 640px) {
+  .standard-view article h1.title,
+  .standard-view article h2.title {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article h1.title,
+  .standard-view article h2.title {
+    font-size: 26px;
+    line-height: 30px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article h1.title,
+  .standard-view article h2.title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 14px;
+  }
+}
+.standard-view article h2.title a {
+  display: block;
+  margin-right: 0px;
+  padding-left: 0px;
+}
+.standard-view article h2.title a:hover {
+  margin-right: -10px;
+  padding-left: 10px;
+}
+.standard-view article div.meta.categories {
+  margin-left: -15px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: bold;
+}
+@media (max-width: 991px) {
+  .standard-view article div.meta.categories {
+    font-size: 14px;
+  }
+}
+.standard-view article div.meta.categories a {
+  display: inline-block;
+  margin-left: 20px;
+}
+.standard-view article div.meta.categories a:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  float: left;
+  margin-top: 12px;
+  margin-right: 12px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+.standard-view article div.meta.categories a:hover:before {
+  width: 16px;
+}
+.standard-view article div.meta.others {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  .standard-view article div.meta.others {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article div.meta.others {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.others {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.meta.others {
+    margin-top: 14px;
+  }
+}
+.standard-view article div.meta.others a {
+  color: rgba(57, 80, 106, 0.85);
+}
+.standard-view article div.meta.others a:last-child:not(:first-child) {
+  border-left: 1px solid rgba(0, 0, 0, 0.08);
+  margin-left: 25px;
+  padding-left: 25px;
+}
+.standard-view article div.meta.others a:hover {
+  color: #233141;
+}
+.standard-view article div.meta.others a img {
+  margin-right: 25px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  -webkit-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.others a img {
+    max-width: 30px;
+    height: auto;
+    margin-right: 15px;
+  }
+}
+.standard-view article div.meta.others a i {
+  margin-right: 5px;
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.others a.date {
+    display: none;
+  }
+}
+.standard-view article div.meta.activity {
+  margin-top: 40px;
+  font-weight: bold;
+}
+@media (max-width: 1199px) {
+  .standard-view article div.meta.activity {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article div.meta.activity {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.activity {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.meta.activity {
+    margin-top: 14px;
+  }
+}
+.standard-view article div.meta.activity a.comments {
+  background: #ef4836;
+  color: #ffffff;
+  padding: 8px 20px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+.standard-view article div.meta.activity a.comments:hover {
+  background: #233141;
+}
+.standard-view article div.meta.activity span.views {
+  color: #233141;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.standard-view article div.meta.activity a.comments,
+.standard-view article div.meta.activity span.views {
+  display: inline-block;
+  font-size: 13px;
+  line-height: 24px;
+}
+.standard-view article div.meta.activity a.comments i,
+.standard-view article div.meta.activity span.views i {
+  font-size: 16px;
+  float: left;
+  line-height: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
+.standard-view article div.meta.activity .social-share a {
+  background: #f7f7f7;
+  color: #233141;
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 14px;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+.standard-view article div.meta.activity .social-share a:first-child {
+  margin-left: 0px;
+}
+.standard-view article div.meta.activity .social-share a:hover {
+  color: #ffffff;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-rss:hover {
+  background-color: #ff7600;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-smashing:hover {
+  background-color: #ff462c;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-flickr:hover {
+  background-color: #0062dd;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-vimeo:hover {
+  background-color: #00beff;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-vimeo-circled:hover {
+  background-color: #00beff;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-twitter:hover {
+  background-color: #00b0ef;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-facebook:hover {
+  background-color: #265999;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-gplus:hover {
+  background-color: #f32e31;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-pinterest:hover {
+  background-color: #ef0021;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-tumblr:hover {
+  background-color: #174863;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-linkedin:hover {
+  background-color: #0082b2;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-dribbble:hover {
+  background-color: #ff2788;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-stumbleupon:hover {
+  background-color: #ff2419;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-lastfm:hover {
+  background-color: #fb0000;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-github:hover {
+  background-color: #0084c5;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-instagram:hover {
+  background-color: #00749c;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-dropbox:hover {
+  background-color: #0083d1;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-evernote:hover {
+  background-color: #7ac142;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-flattr:hover {
+  background-color: #ff6f00;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-odnoklassniki:hover {
+  background-color: #f58220;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-skype:hover {
+  background-color: #00b3f2;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-renren:hover {
+  background-color: #0d80e4;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-picasa:hover {
+  background-color: #415e5f;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-soundcloud:hover {
+  background-color: #ff4f00;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-mixi:hover {
+  background-color: #d1ad5a;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-behance:hover {
+  background-color: #0066ff;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-youtube:hover {
+  background-color: #cd201f;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-youtube-play:hover {
+  background-color: #cd201f;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-vkontakte:hover {
+  background-color: #4E729A;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-reddit:hover {
+  background-color: #ee5831;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-rdio:hover {
+  background-color: #006ed4;
+}
+.standard-view article div.meta.activity .social-share a.gourmand-icon-mail-alt:hover,
+.standard-view article div.meta.activity .social-share a.gourmand-icon-link-2:hover,
+.standard-view article div.meta.activity .social-share a.gourmand-icon-share:hover,
+.standard-view article div.meta.activity .social-share a.gourmand-icon-plus:hover {
+  background: #233141;
+}
+@media (max-width: 480px) {
+  .standard-view article div.meta.activity .social-share a {
+    line-height: 36px;
+    width: 36px;
+    height: 36px;
+  }
+}
+.standard-view article div.meta.activity span.social-share {
+  display: inline-block;
+}
+@media (max-width: 991px) {
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-gplus,
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-linkedin,
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-pinterest,
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-tumblr,
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-mail-alt,
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-link-2 {
+    display: none;
+  }
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-plus.hidden {
+    display: inline-block !important;
+  }
+}
+@media (max-width: 640px) {
+  .standard-view article div.meta.activity span.social-share a {
+    display: none;
+  }
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-plus.hidden {
+    display: none !important;
+  }
+  .standard-view article div.meta.activity span.social-share a.gourmand-icon-share.hidden {
+    display: inline-block !important;
+  }
+}
+.standard-view article div.meta.activity div.share-panel {
+  display: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  z-index: 100;
+}
+.standard-view article div.meta.activity div.share-panel.display-panel {
+  display: block;
+}
+.standard-view article div.meta.activity div.share-panel div.share-panel-shadow {
+  background: rgba(255, 255, 255, 0.95);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  z-index: 1000;
+}
+.standard-view article div.meta.activity div.share-panel div.flex-item {
+  z-index: 1001;
+  width: 450px;
+  margin: 0px auto;
+}
+.standard-view article div.meta.activity div.share-panel div.share-panel-article {
+  background: #ffffff;
+  width: 100%;
+  display: block;
+  padding: 20px;
+  margin: 0px auto;
+  position: relative;
+  vertical-align: middle;
+  text-align: left;
+  z-index: 100;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+}
+.standard-view article div.meta.activity div.share-panel a.gourmand-icon-cancel-5 {
+  position: absolute;
+  color: rgba(0, 0, 0, 0.3);
+  line-height: 20px;
+  font-size: 16px;
+  top: 5px;
+  right: 5px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.standard-view article div.meta.activity div.share-panel a.gourmand-icon-cancel-5:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper {
+  position: relative;
+  margin: 0px 0px 24px 0px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-top-right-radius: 4px;
+  border-top-right-radius: 4px;
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-top-left-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper img,
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper picture {
+  max-width: 100%;
+}
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5 {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.8);
+  display: block;
+  font-size: 14px;
+  line-height: 28px;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+}
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:before,
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5::before {
+  display: block;
+  font-size: 14px;
+  line-height: 28px;
+  width: 28px;
+  height: 28px;
+}
+.standard-view article div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:hover {
+  background: rgba(0, 0, 0, 0.85);
+  color: #ffffff;
+}
+.standard-view article div.meta.activity div.share-panel div.content-wrapper {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+.standard-view article div.meta.activity div.share-panel div.content-wrapper h3.title {
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  margin: 0px 0px 20px 0px;
+}
+.standard-view article div.meta.activity div.share-panel div.content-wrapper p {
+  color: #999999;
+  margin: 0px;
+  font-size: 13px;
+  line-height: 22px;
+  font-weight: normal;
+  text-shadow: none;
+}
+.standard-view article div.meta.activity div.share-panel div.share-items strong {
+  color: #000000;
+  display: block;
+  margin-bottom: 15px;
+}
+.standard-view article div.meta.activity div.share-panel div.share-items div.post-url {
+  margin-top: 15px;
+}
+.standard-view article div.meta.activity div.share-panel div.share-items div.post-url input {
+  width: 100%;
+  padding: 3px 5px;
+}
+.standard-view article div.meta.activity a.comments + span.social-share {
+  margin-left: 10px;
+}
+.standard-view article div.meta.activity span.source {
+  border: 2px solid #f3f3f3;
+  position: relative;
+  color: #bbc2c9;
+  display: inline-block;
+  float: right;
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 300;
+  padding: 6px 18px;
+  cursor: copy;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+.standard-view article div.meta.activity span.source:first-child {
+  float: left;
+}
+.standard-view article div.meta.activity span.source i {
+  color: #ffffff;
+  background: #233141;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: center;
+  top: 2px;
+  left: 2px;
+  overflow: hidden;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.standard-view article div.meta.activity span.source i:before {
+  width: 36px;
+  height: 36px;
+  text-align: center;
+  margin-left: -2px;
+}
+.standard-view article div.meta.activity span.source input {
+  background: transparent;
+  border: none;
+  display: inline-block;
+  font-weight: bold;
+  float: right;
+  color: #233141;
+  cursor: copy;
+  padding: 3px 0px 5px 5px;
+  margin: 1px 0px -1px 0px;
+  max-width: 135px;
+  height: 24px;
+  line-height: 12px;
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.activity span.source {
+    display: none;
+  }
+}
+.standard-view article div.meta.activity:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}
+.standard-view article div.meta.activity + div.hentry,
+.standard-view article div.meta.activity + div.gourmand-author-wrapper,
+.standard-view article div.meta.activity + div.gourmand-comments-wrapper {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  .standard-view article div.meta.activity + div.hentry,
+  .standard-view article div.meta.activity + div.gourmand-author-wrapper,
+  .standard-view article div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article div.meta.activity + div.hentry,
+  .standard-view article div.meta.activity + div.gourmand-author-wrapper,
+  .standard-view article div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.activity + div.hentry,
+  .standard-view article div.meta.activity + div.gourmand-author-wrapper,
+  .standard-view article div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.meta.activity + div.hentry,
+  .standard-view article div.meta.activity + div.gourmand-author-wrapper,
+  .standard-view article div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 14px;
+  }
+}
+.standard-view article div.meta.categories a {
+  color: rgba(57, 80, 106, 0.85);
+}
+.standard-view article div.meta.categories a:before {
+  background: #39506a;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.standard-view article div.meta.categories a:hover {
+  color: #233141;
+}
+.standard-view article div.meta.categories a:hover:before {
+  background: #39506a;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+.standard-view article div.meta.others + .thumbnail-wrapper {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  .standard-view article div.meta.others + .thumbnail-wrapper {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article div.meta.others + .thumbnail-wrapper {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.others + .thumbnail-wrapper {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.meta.others + .thumbnail-wrapper {
+    margin-top: 14px;
+  }
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.12);
+}
+@media (max-width: 1199px) {
+  .standard-view article.has-post-thumbnail .thumbnail-wrapper {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article.has-post-thumbnail .thumbnail-wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article.has-post-thumbnail .thumbnail-wrapper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article.has-post-thumbnail .thumbnail-wrapper {
+    margin-top: 14px;
+    margin-bottom: 14px;
+  }
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper img,
+.standard-view article.has-post-thumbnail .thumbnail-wrapper picture {
+  display: block;
+  max-width: 100%;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper .image-wrapper {
+  position: relative;
+  display: block;
+  text-align: left;
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper .image-wrapper a {
+  background: rgba(0, 0, 0, 0);
+  top: 0px;
+  left: 0px;
+  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: -ms-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: -o-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper .image-wrapper a span {
+  width: 100%;
+  max-width: 640px;
+  padding: 25px;
+  color: #ffffff;
+  line-height: 22px;
+  margin-bottom: -100%;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper .image-wrapper a:hover {
+  background: transparent;
+  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: -ms-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: -o-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.standard-view article.has-post-thumbnail .thumbnail-wrapper .image-wrapper a:hover span {
+  margin-bottom: 0px;
+}
+.standard-view article div.summary {
+  color: #666666;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: normal;
+}
+.standard-view article div.summary a.more-link,
+.standard-view article div.post-content a.more-link {
+  background: #f3f3f3;
+  color: #233141;
+  float: right;
+  padding: 8px 25px;
+  display: inline-block;
+  line-height: 24px;
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+.standard-view article div.summary a.more-link span,
+.standard-view article div.post-content a.more-link span {
+  display: inline-block;
+}
+.standard-view article div.summary a.more-link i,
+.standard-view article div.post-content a.more-link i {
+  margin-left: 10px;
+  margin-right: 10px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+.standard-view article div.summary a.more-link:hover,
+.standard-view article div.post-content a.more-link:hover {
+  color: #ffffff;
+  background: #233141;
+}
+.standard-view article div.summary a.more-link:hover i,
+.standard-view article div.post-content a.more-link:hover i {
+  margin-left: 17px;
+  margin-right: 3px;
+}
+.standard-view article div.summary p + div.clearfix,
+.standard-view article div.post-content p + div.clearfix {
+  margin-top: -24px;
+}
+.standard-view article div.summary twitterwidget,
+.standard-view article div.post-content twitterwidget {
+  margin: 40px auto!important;
+}
+@media (max-width: 767px) {
+  .standard-view article div.summary twitterwidget,
+  .standard-view article div.post-content twitterwidget {
+    margin: 32px auto!important;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.summary twitterwidget,
+  .standard-view article div.post-content twitterwidget {
+    margin: 28px auto!important;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.summary twitterwidget,
+  .standard-view article div.post-content twitterwidget {
+    margin: 24px auto!important;
+  }
+}
+.standard-view article div.meta.others + div.summary,
+.standard-view article div.meta.others + div.post-content {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  .standard-view article div.meta.others + div.summary,
+  .standard-view article div.meta.others + div.post-content {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article div.meta.others + div.summary,
+  .standard-view article div.meta.others + div.post-content {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.meta.others + div.summary,
+  .standard-view article div.meta.others + div.post-content {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.meta.others + div.summary,
+  .standard-view article div.meta.others + div.post-content {
+    margin-top: 14px;
+  }
+}
+.standard-view article div.post-content > div:first-child {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  .standard-view article div.post-content > div:first-child {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article div.post-content > div:first-child {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article div.post-content > div:first-child {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article div.post-content > div:first-child {
+    margin-top: 14px;
+  }
+}
+.standard-view article h2.title + div.summary,
+.standard-view article h2.title + div.post-content {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  .standard-view article h2.title + div.summary,
+  .standard-view article h2.title + div.post-content {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .standard-view article h2.title + div.summary,
+  .standard-view article h2.title + div.post-content {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .standard-view article h2.title + div.summary,
+  .standard-view article h2.title + div.post-content {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .standard-view article h2.title + div.summary,
+  .standard-view article h2.title + div.post-content {
+    margin-top: 14px;
+  }
+}

@@ -1,0 +1,2229 @@
+body.single .header-partial #gourmand-header-wrapper,
+body.page .header-partial #gourmand-header-wrapper {
+  text-align: left;
+}
+body.single .header-partial #gourmand-header-wrapper h1.title,
+body.page .header-partial #gourmand-header-wrapper h1.title {
+  font-size: 40px;
+  line-height: 44px;
+}
+body.single .header-partial #gourmand-header-wrapper h2.subtitle,
+body.page .header-partial #gourmand-header-wrapper h2.subtitle {
+  font-size: 24px;
+  line-height: 30px;
+  margin: 30px 0px 12px 0px;
+}
+@media (max-width: 991px) {
+  body.single .header-partial #gourmand-header-wrapper h2.subtitle,
+  body.page .header-partial #gourmand-header-wrapper h2.subtitle {
+    font-size: 22px;
+    line-height: 28px;
+    margin-top: 26px;
+  }
+}
+@media (max-width: 767px) {
+  body.single .header-partial #gourmand-header-wrapper h2.subtitle,
+  body.page .header-partial #gourmand-header-wrapper h2.subtitle {
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 22px;
+  }
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper h2.subtitle,
+  body.page .header-partial #gourmand-header-wrapper h2.subtitle {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper h2.subtitle,
+  body.page .header-partial #gourmand-header-wrapper h2.subtitle {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 18px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper h2.title,
+body.page .header-partial #gourmand-header-wrapper h2.title {
+  font-size: 32px;
+  line-height: 38px;
+}
+body.single .header-partial #gourmand-header-wrapper p.description,
+body.page .header-partial #gourmand-header-wrapper p.description {
+  width: 100%;
+  max-width: 440px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: .25px;
+  font-weight: lighter;
+  margin: 30px auto;
+}
+body.single .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description,
+body.page .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description {
+  margin-top: 12px;
+}
+body.single .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry,
+body.page .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry {
+  margin-top: 40px;
+}
+@media (max-width: 991px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 32px;
+  }
+}
+@media (max-width: 767px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 28px;
+  }
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 26px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper h1.title,
+body.page .header-partial #gourmand-header-wrapper h1.title,
+body.single .header-partial #gourmand-header-wrapper h2.title,
+body.page .header-partial #gourmand-header-wrapper h2.title {
+  max-width: 680px;
+  letter-spacing: -0.15px;
+  margin-top: 40px;
+}
+body.single .header-partial #gourmand-header-wrapper h1.title a,
+body.page .header-partial #gourmand-header-wrapper h1.title a,
+body.single .header-partial #gourmand-header-wrapper h2.title a,
+body.page .header-partial #gourmand-header-wrapper h2.title a {
+  color: #233141;
+}
+body.single .header-partial #gourmand-header-wrapper h1.title a:hover,
+body.page .header-partial #gourmand-header-wrapper h1.title a:hover,
+body.single .header-partial #gourmand-header-wrapper h2.title a:hover,
+body.page .header-partial #gourmand-header-wrapper h2.title a:hover {
+  color: #000000;
+}
+@media (max-width: 1199px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title,
+  body.page .header-partial #gourmand-header-wrapper h1.title,
+  body.single .header-partial #gourmand-header-wrapper h2.title,
+  body.page .header-partial #gourmand-header-wrapper h2.title {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title,
+  body.page .header-partial #gourmand-header-wrapper h1.title,
+  body.single .header-partial #gourmand-header-wrapper h2.title,
+  body.page .header-partial #gourmand-header-wrapper h2.title {
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 640px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title,
+  body.page .header-partial #gourmand-header-wrapper h1.title,
+  body.single .header-partial #gourmand-header-wrapper h2.title,
+  body.page .header-partial #gourmand-header-wrapper h2.title {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title,
+  body.page .header-partial #gourmand-header-wrapper h1.title,
+  body.single .header-partial #gourmand-header-wrapper h2.title,
+  body.page .header-partial #gourmand-header-wrapper h2.title {
+    font-size: 26px;
+    line-height: 30px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper h1.title,
+  body.page .header-partial #gourmand-header-wrapper h1.title,
+  body.single .header-partial #gourmand-header-wrapper h2.title,
+  body.page .header-partial #gourmand-header-wrapper h2.title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 14px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper h2.title a,
+body.page .header-partial #gourmand-header-wrapper h2.title a {
+  display: block;
+  margin-right: 0px;
+  padding-left: 0px;
+}
+body.single .header-partial #gourmand-header-wrapper h2.title a:hover,
+body.page .header-partial #gourmand-header-wrapper h2.title a:hover {
+  margin-right: -10px;
+  padding-left: 10px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories {
+  margin-left: -15px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: bold;
+}
+@media (max-width: 991px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.categories,
+  body.page .header-partial #gourmand-header-wrapper div.meta.categories {
+    font-size: 14px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a {
+  display: inline-block;
+  margin-left: 20px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a:before,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  float: left;
+  margin-top: 12px;
+  margin-right: 12px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a:hover:before,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a:hover:before {
+  width: 16px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others,
+body.page .header-partial #gourmand-header-wrapper div.meta.others {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.others,
+  body.page .header-partial #gourmand-header-wrapper div.meta.others {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.others,
+  body.page .header-partial #gourmand-header-wrapper div.meta.others {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.others,
+  body.page .header-partial #gourmand-header-wrapper div.meta.others {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.others,
+  body.page .header-partial #gourmand-header-wrapper div.meta.others {
+    margin-top: 14px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a {
+  color: rgba(57, 80, 106, 0.85);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a:last-child:not(:first-child),
+body.page .header-partial #gourmand-header-wrapper div.meta.others a:last-child:not(:first-child) {
+  border-left: 1px solid rgba(0, 0, 0, 0.08);
+  margin-left: 25px;
+  padding-left: 25px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a:hover {
+  color: #233141;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a img,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a img {
+  margin-right: 25px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  -webkit-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.others a img,
+  body.page .header-partial #gourmand-header-wrapper div.meta.others a img {
+    max-width: 30px;
+    height: auto;
+    margin-right: 15px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a i,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a i {
+  margin-right: 5px;
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.others a.date,
+  body.page .header-partial #gourmand-header-wrapper div.meta.others a.date {
+    display: none;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity {
+  margin-top: 40px;
+  font-weight: bold;
+}
+@media (max-width: 1199px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity {
+    margin-top: 14px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity a.comments,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity a.comments {
+  background: #ef4836;
+  color: #ffffff;
+  padding: 8px 20px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity a.comments:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity a.comments:hover {
+  background: #233141;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.views,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.views {
+  color: #233141;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity a.comments,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity a.comments,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.views,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.views {
+  display: inline-block;
+  font-size: 13px;
+  line-height: 24px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity a.comments i,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity a.comments i,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.views i,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.views i {
+  font-size: 16px;
+  float: left;
+  line-height: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a {
+  background: #f7f7f7;
+  color: #233141;
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 14px;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a:first-child,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a:first-child {
+  margin-left: 0px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a:hover {
+  color: #ffffff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-rss:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-rss:hover {
+  background-color: #ff7600;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-smashing:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-smashing:hover {
+  background-color: #ff462c;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-flickr:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-flickr:hover {
+  background-color: #0062dd;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-vimeo:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-vimeo:hover {
+  background-color: #00beff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-vimeo-circled:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-vimeo-circled:hover {
+  background-color: #00beff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-twitter:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-twitter:hover {
+  background-color: #00b0ef;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-facebook:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-facebook:hover {
+  background-color: #265999;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-gplus:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-gplus:hover {
+  background-color: #f32e31;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-google-circles:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-pinterest:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-pinterest:hover {
+  background-color: #ef0021;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-tumblr:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-tumblr:hover {
+  background-color: #174863;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-linkedin:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-linkedin:hover {
+  background-color: #0082b2;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-dribbble:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-dribbble:hover {
+  background-color: #ff2788;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-stumbleupon:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-stumbleupon:hover {
+  background-color: #ff2419;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-lastfm:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-lastfm:hover {
+  background-color: #fb0000;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-github:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-github:hover {
+  background-color: #0084c5;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-instagram:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-instagram:hover {
+  background-color: #00749c;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-dropbox:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-dropbox:hover {
+  background-color: #0083d1;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-evernote:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-evernote:hover {
+  background-color: #7ac142;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-flattr:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-flattr:hover {
+  background-color: #ff6f00;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-odnoklassniki:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-odnoklassniki:hover {
+  background-color: #f58220;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-skype:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-skype:hover {
+  background-color: #00b3f2;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-renren:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-renren:hover {
+  background-color: #0d80e4;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-picasa:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-picasa:hover {
+  background-color: #415e5f;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-soundcloud:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-soundcloud:hover {
+  background-color: #ff4f00;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-mixi:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-mixi:hover {
+  background-color: #d1ad5a;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-behance:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-behance:hover {
+  background-color: #0066ff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-google-circles:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-youtube:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-youtube:hover {
+  background-color: #cd201f;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-youtube-play:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-youtube-play:hover {
+  background-color: #cd201f;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-vkontakte:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-vkontakte:hover {
+  background-color: #4E729A;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-reddit:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-reddit:hover {
+  background-color: #ee5831;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-rdio:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-rdio:hover {
+  background-color: #006ed4;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-mail-alt:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-mail-alt:hover,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-link-2:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-link-2:hover,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-share:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-share:hover,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-plus:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a.gourmand-icon-plus:hover {
+  background: #233141;
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity .social-share a,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity .social-share a {
+    line-height: 36px;
+    width: 36px;
+    height: 36px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share {
+  display: inline-block;
+}
+@media (max-width: 991px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-gplus,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-gplus,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-linkedin,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-linkedin,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-pinterest,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-pinterest,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-tumblr,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-tumblr,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-mail-alt,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-mail-alt,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-link-2,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-link-2 {
+    display: none;
+  }
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-plus.hidden,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-plus.hidden {
+    display: inline-block !important;
+  }
+}
+@media (max-width: 640px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a {
+    display: none;
+  }
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-plus.hidden,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-plus.hidden {
+    display: none !important;
+  }
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-share.hidden,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.social-share a.gourmand-icon-share.hidden {
+    display: inline-block !important;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel {
+  display: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  z-index: 100;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel.display-panel,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel.display-panel {
+  display: block;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-panel-shadow,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-panel-shadow {
+  background: rgba(255, 255, 255, 0.95);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  z-index: 1000;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.flex-item,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.flex-item {
+  z-index: 1001;
+  width: 450px;
+  margin: 0px auto;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-panel-article,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-panel-article {
+  background: #ffffff;
+  width: 100%;
+  display: block;
+  padding: 20px;
+  margin: 0px auto;
+  position: relative;
+  vertical-align: middle;
+  text-align: left;
+  z-index: 100;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel a.gourmand-icon-cancel-5,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel a.gourmand-icon-cancel-5 {
+  position: absolute;
+  color: rgba(0, 0, 0, 0.3);
+  line-height: 20px;
+  font-size: 16px;
+  top: 5px;
+  right: 5px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel a.gourmand-icon-cancel-5:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel a.gourmand-icon-cancel-5:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper {
+  position: relative;
+  margin: 0px 0px 24px 0px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-top-right-radius: 4px;
+  border-top-right-radius: 4px;
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-top-left-radius: 4px;
+  border-top-left-radius: 4px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper img,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper img,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper picture,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper picture {
+  max-width: 100%;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5 {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.8);
+  display: block;
+  font-size: 14px;
+  line-height: 28px;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:before,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:before,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5::before,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5::before {
+  display: block;
+  font-size: 14px;
+  line-height: 28px;
+  width: 28px;
+  height: 28px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:hover {
+  background: rgba(0, 0, 0, 0.85);
+  color: #ffffff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.content-wrapper,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.content-wrapper {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.content-wrapper h3.title,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.content-wrapper h3.title {
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  margin: 0px 0px 20px 0px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.content-wrapper p,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.content-wrapper p {
+  color: #999999;
+  margin: 0px;
+  font-size: 13px;
+  line-height: 22px;
+  font-weight: normal;
+  text-shadow: none;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-items strong,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-items strong {
+  color: #000000;
+  display: block;
+  margin-bottom: 15px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-items div.post-url,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-items div.post-url {
+  margin-top: 15px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-items div.post-url input,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity div.share-panel div.share-items div.post-url input {
+  width: 100%;
+  padding: 3px 5px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity a.comments + span.social-share,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity a.comments + span.social-share {
+  margin-left: 10px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source {
+  border: 2px solid #f3f3f3;
+  position: relative;
+  color: #bbc2c9;
+  display: inline-block;
+  float: right;
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 300;
+  padding: 6px 18px;
+  cursor: copy;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source:first-child,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source:first-child {
+  float: left;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source i,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source i {
+  color: #ffffff;
+  background: #233141;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: center;
+  top: 2px;
+  left: 2px;
+  overflow: hidden;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source i:before,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source i:before {
+  width: 36px;
+  height: 36px;
+  text-align: center;
+  margin-left: -2px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source input,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source input {
+  background: transparent;
+  border: none;
+  display: inline-block;
+  font-weight: bold;
+  float: right;
+  color: #233141;
+  cursor: copy;
+  padding: 3px 0px 5px 5px;
+  margin: 1px 0px -1px 0px;
+  max-width: 135px;
+  height: 24px;
+  line-height: 12px;
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source {
+    display: none;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity:after,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.hentry,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-author-wrapper,
+  body.single .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper,
+  body.page .header-partial #gourmand-header-wrapper div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 14px;
+  }
+}
+body.single .header-partial #gourmand-header-wrapper h1.title,
+body.page .header-partial #gourmand-header-wrapper h1.title {
+  color: #ffffff;
+  margin: 30px 0px;
+  text-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+}
+body.single .header-partial #gourmand-header-wrapper h2.subtitle,
+body.page .header-partial #gourmand-header-wrapper h2.subtitle {
+  color: rgba(255, 255, 255, 0.8);
+}
+body.single .header-partial #gourmand-header-wrapper p.description:last-child,
+body.page .header-partial #gourmand-header-wrapper p.description:last-child {
+  margin-bottom: 0px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a {
+  color: rgba(255, 255, 255, 0.8);
+  text-shadow: 0px 3px 12px rgba(0, 0, 0, 0.5);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a:before,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a:before {
+  background: rgba(255, 255, 255, 0.6);
+  -webkit-box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.5);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a:hover {
+  color: #ffffff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.categories a:hover:before,
+body.page .header-partial #gourmand-header-wrapper div.meta.categories a:hover:before {
+  background: #ffffff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a {
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a:hover,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a:hover {
+  color: #ffffff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a:last-child:not(:first-child),
+body.page .header-partial #gourmand-header-wrapper div.meta.others a:last-child:not(:first-child) {
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.others a img,
+body.page .header-partial #gourmand-header-wrapper div.meta.others a img {
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity {
+  margin-bottom: 0px;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.views,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.views {
+  color: #ffffff;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source {
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.6);
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source i,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source i {
+  background: #ffffff;
+  color: #233141;
+}
+body.single .header-partial #gourmand-header-wrapper div.meta.activity span.source input,
+body.page .header-partial #gourmand-header-wrapper div.meta.activity span.source input {
+  color: #ffffff;
+}
+body.single h1.title,
+body.page h1.title {
+  font-size: 40px;
+  line-height: 44px;
+}
+body.single h2.subtitle,
+body.page h2.subtitle {
+  font-size: 24px;
+  line-height: 30px;
+  margin: 30px 0px 12px 0px;
+}
+@media (max-width: 991px) {
+  body.single h2.subtitle,
+  body.page h2.subtitle {
+    font-size: 22px;
+    line-height: 28px;
+    margin-top: 26px;
+  }
+}
+@media (max-width: 767px) {
+  body.single h2.subtitle,
+  body.page h2.subtitle {
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 22px;
+  }
+}
+@media (max-width: 540px) {
+  body.single h2.subtitle,
+  body.page h2.subtitle {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 480px) {
+  body.single h2.subtitle,
+  body.page h2.subtitle {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 18px;
+  }
+}
+body.single h2.title,
+body.page h2.title {
+  font-size: 32px;
+  line-height: 38px;
+}
+body.single p.description,
+body.page p.description {
+  width: 100%;
+  max-width: 440px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: .25px;
+  font-weight: lighter;
+  margin: 30px auto;
+}
+body.single h1.title + h2.subtitle + p.description,
+body.page h1.title + h2.subtitle + p.description {
+  margin-top: 12px;
+}
+body.single h1.title + h2.subtitle + p.description + div.hentry,
+body.page h1.title + h2.subtitle + p.description + div.hentry {
+  margin-top: 40px;
+}
+@media (max-width: 991px) {
+  body.single h1.title + h2.subtitle + p.description + div.hentry,
+  body.page h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 32px;
+  }
+}
+@media (max-width: 767px) {
+  body.single h1.title + h2.subtitle + p.description + div.hentry,
+  body.page h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 540px) {
+  body.single h1.title + h2.subtitle + p.description + div.hentry,
+  body.page h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 28px;
+  }
+}
+@media (max-width: 480px) {
+  body.single h1.title + h2.subtitle + p.description + div.hentry,
+  body.page h1.title + h2.subtitle + p.description + div.hentry {
+    margin-top: 26px;
+  }
+}
+body.single h1.title,
+body.page h1.title,
+body.single h2.title,
+body.page h2.title {
+  max-width: 680px;
+  letter-spacing: -0.15px;
+  margin-top: 40px;
+}
+body.single h1.title a,
+body.page h1.title a,
+body.single h2.title a,
+body.page h2.title a {
+  color: #233141;
+}
+body.single h1.title a:hover,
+body.page h1.title a:hover,
+body.single h2.title a:hover,
+body.page h2.title a:hover {
+  color: #000000;
+}
+@media (max-width: 1199px) {
+  body.single h1.title,
+  body.page h1.title,
+  body.single h2.title,
+  body.page h2.title {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single h1.title,
+  body.page h1.title,
+  body.single h2.title,
+  body.page h2.title {
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 640px) {
+  body.single h1.title,
+  body.page h1.title,
+  body.single h2.title,
+  body.page h2.title {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (max-width: 540px) {
+  body.single h1.title,
+  body.page h1.title,
+  body.single h2.title,
+  body.page h2.title {
+    font-size: 26px;
+    line-height: 30px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single h1.title,
+  body.page h1.title,
+  body.single h2.title,
+  body.page h2.title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 14px;
+  }
+}
+body.single h2.title a,
+body.page h2.title a {
+  display: block;
+  margin-right: 0px;
+  padding-left: 0px;
+}
+body.single h2.title a:hover,
+body.page h2.title a:hover {
+  margin-right: -10px;
+  padding-left: 10px;
+}
+body.single div.meta.categories,
+body.page div.meta.categories {
+  margin-left: -15px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: bold;
+}
+@media (max-width: 991px) {
+  body.single div.meta.categories,
+  body.page div.meta.categories {
+    font-size: 14px;
+  }
+}
+body.single div.meta.categories a,
+body.page div.meta.categories a {
+  display: inline-block;
+  margin-left: 20px;
+}
+body.single div.meta.categories a:before,
+body.page div.meta.categories a:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  float: left;
+  margin-top: 12px;
+  margin-right: 12px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+body.single div.meta.categories a:hover:before,
+body.page div.meta.categories a:hover:before {
+  width: 16px;
+}
+body.single div.meta.others,
+body.page div.meta.others {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  body.single div.meta.others,
+  body.page div.meta.others {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single div.meta.others,
+  body.page div.meta.others {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single div.meta.others,
+  body.page div.meta.others {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single div.meta.others,
+  body.page div.meta.others {
+    margin-top: 14px;
+  }
+}
+body.single div.meta.others a,
+body.page div.meta.others a {
+  color: rgba(57, 80, 106, 0.85);
+}
+body.single div.meta.others a:last-child:not(:first-child),
+body.page div.meta.others a:last-child:not(:first-child) {
+  border-left: 1px solid rgba(0, 0, 0, 0.08);
+  margin-left: 25px;
+  padding-left: 25px;
+}
+body.single div.meta.others a:hover,
+body.page div.meta.others a:hover {
+  color: #233141;
+}
+body.single div.meta.others a img,
+body.page div.meta.others a img {
+  margin-right: 25px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  -webkit-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.12);
+}
+@media (max-width: 540px) {
+  body.single div.meta.others a img,
+  body.page div.meta.others a img {
+    max-width: 30px;
+    height: auto;
+    margin-right: 15px;
+  }
+}
+body.single div.meta.others a i,
+body.page div.meta.others a i {
+  margin-right: 5px;
+}
+@media (max-width: 540px) {
+  body.single div.meta.others a.date,
+  body.page div.meta.others a.date {
+    display: none;
+  }
+}
+body.single div.meta.activity,
+body.page div.meta.activity {
+  margin-top: 40px;
+  font-weight: bold;
+}
+@media (max-width: 1199px) {
+  body.single div.meta.activity,
+  body.page div.meta.activity {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single div.meta.activity,
+  body.page div.meta.activity {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single div.meta.activity,
+  body.page div.meta.activity {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single div.meta.activity,
+  body.page div.meta.activity {
+    margin-top: 14px;
+  }
+}
+body.single div.meta.activity a.comments,
+body.page div.meta.activity a.comments {
+  background: #ef4836;
+  color: #ffffff;
+  padding: 8px 20px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+body.single div.meta.activity a.comments:hover,
+body.page div.meta.activity a.comments:hover {
+  background: #233141;
+}
+body.single div.meta.activity span.views,
+body.page div.meta.activity span.views {
+  color: #233141;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+body.single div.meta.activity a.comments,
+body.page div.meta.activity a.comments,
+body.single div.meta.activity span.views,
+body.page div.meta.activity span.views {
+  display: inline-block;
+  font-size: 13px;
+  line-height: 24px;
+}
+body.single div.meta.activity a.comments i,
+body.page div.meta.activity a.comments i,
+body.single div.meta.activity span.views i,
+body.page div.meta.activity span.views i {
+  font-size: 16px;
+  float: left;
+  line-height: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
+body.single div.meta.activity .social-share a,
+body.page div.meta.activity .social-share a {
+  background: #f7f7f7;
+  color: #233141;
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 14px;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+body.single div.meta.activity .social-share a:first-child,
+body.page div.meta.activity .social-share a:first-child {
+  margin-left: 0px;
+}
+body.single div.meta.activity .social-share a:hover,
+body.page div.meta.activity .social-share a:hover {
+  color: #ffffff;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-rss:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-rss:hover {
+  background-color: #ff7600;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-smashing:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-smashing:hover {
+  background-color: #ff462c;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-flickr:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-flickr:hover {
+  background-color: #0062dd;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-vimeo:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-vimeo:hover {
+  background-color: #00beff;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-vimeo-circled:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-vimeo-circled:hover {
+  background-color: #00beff;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-twitter:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-twitter:hover {
+  background-color: #00b0ef;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-facebook:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-facebook:hover {
+  background-color: #265999;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-gplus:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-gplus:hover {
+  background-color: #f32e31;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-google-circles:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-pinterest:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-pinterest:hover {
+  background-color: #ef0021;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-tumblr:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-tumblr:hover {
+  background-color: #174863;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-linkedin:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-linkedin:hover {
+  background-color: #0082b2;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-dribbble:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-dribbble:hover {
+  background-color: #ff2788;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-stumbleupon:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-stumbleupon:hover {
+  background-color: #ff2419;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-lastfm:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-lastfm:hover {
+  background-color: #fb0000;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-github:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-github:hover {
+  background-color: #0084c5;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-instagram:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-instagram:hover {
+  background-color: #00749c;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-dropbox:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-dropbox:hover {
+  background-color: #0083d1;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-evernote:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-evernote:hover {
+  background-color: #7ac142;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-flattr:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-flattr:hover {
+  background-color: #ff6f00;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-odnoklassniki:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-odnoklassniki:hover {
+  background-color: #f58220;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-skype:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-skype:hover {
+  background-color: #00b3f2;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-renren:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-renren:hover {
+  background-color: #0d80e4;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-picasa:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-picasa:hover {
+  background-color: #415e5f;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-soundcloud:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-soundcloud:hover {
+  background-color: #ff4f00;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-mixi:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-mixi:hover {
+  background-color: #d1ad5a;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-behance:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-behance:hover {
+  background-color: #0066ff;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-google-circles:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-youtube:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-youtube:hover {
+  background-color: #cd201f;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-youtube-play:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-youtube-play:hover {
+  background-color: #cd201f;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-vkontakte:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-vkontakte:hover {
+  background-color: #4E729A;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-reddit:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-reddit:hover {
+  background-color: #ee5831;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-rdio:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-rdio:hover {
+  background-color: #006ed4;
+}
+body.single div.meta.activity .social-share a.gourmand-icon-mail-alt:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-mail-alt:hover,
+body.single div.meta.activity .social-share a.gourmand-icon-link-2:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-link-2:hover,
+body.single div.meta.activity .social-share a.gourmand-icon-share:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-share:hover,
+body.single div.meta.activity .social-share a.gourmand-icon-plus:hover,
+body.page div.meta.activity .social-share a.gourmand-icon-plus:hover {
+  background: #233141;
+}
+@media (max-width: 480px) {
+  body.single div.meta.activity .social-share a,
+  body.page div.meta.activity .social-share a {
+    line-height: 36px;
+    width: 36px;
+    height: 36px;
+  }
+}
+body.single div.meta.activity span.social-share,
+body.page div.meta.activity span.social-share {
+  display: inline-block;
+}
+@media (max-width: 991px) {
+  body.single div.meta.activity span.social-share a.gourmand-icon-gplus,
+  body.page div.meta.activity span.social-share a.gourmand-icon-gplus,
+  body.single div.meta.activity span.social-share a.gourmand-icon-linkedin,
+  body.page div.meta.activity span.social-share a.gourmand-icon-linkedin,
+  body.single div.meta.activity span.social-share a.gourmand-icon-pinterest,
+  body.page div.meta.activity span.social-share a.gourmand-icon-pinterest,
+  body.single div.meta.activity span.social-share a.gourmand-icon-tumblr,
+  body.page div.meta.activity span.social-share a.gourmand-icon-tumblr,
+  body.single div.meta.activity span.social-share a.gourmand-icon-mail-alt,
+  body.page div.meta.activity span.social-share a.gourmand-icon-mail-alt,
+  body.single div.meta.activity span.social-share a.gourmand-icon-link-2,
+  body.page div.meta.activity span.social-share a.gourmand-icon-link-2 {
+    display: none;
+  }
+  body.single div.meta.activity span.social-share a.gourmand-icon-plus.hidden,
+  body.page div.meta.activity span.social-share a.gourmand-icon-plus.hidden {
+    display: inline-block !important;
+  }
+}
+@media (max-width: 640px) {
+  body.single div.meta.activity span.social-share a,
+  body.page div.meta.activity span.social-share a {
+    display: none;
+  }
+  body.single div.meta.activity span.social-share a.gourmand-icon-plus.hidden,
+  body.page div.meta.activity span.social-share a.gourmand-icon-plus.hidden {
+    display: none !important;
+  }
+  body.single div.meta.activity span.social-share a.gourmand-icon-share.hidden,
+  body.page div.meta.activity span.social-share a.gourmand-icon-share.hidden {
+    display: inline-block !important;
+  }
+}
+body.single div.meta.activity div.share-panel,
+body.page div.meta.activity div.share-panel {
+  display: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  z-index: 100;
+}
+body.single div.meta.activity div.share-panel.display-panel,
+body.page div.meta.activity div.share-panel.display-panel {
+  display: block;
+}
+body.single div.meta.activity div.share-panel div.share-panel-shadow,
+body.page div.meta.activity div.share-panel div.share-panel-shadow {
+  background: rgba(255, 255, 255, 0.95);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  z-index: 1000;
+}
+body.single div.meta.activity div.share-panel div.flex-item,
+body.page div.meta.activity div.share-panel div.flex-item {
+  z-index: 1001;
+  width: 450px;
+  margin: 0px auto;
+}
+body.single div.meta.activity div.share-panel div.share-panel-article,
+body.page div.meta.activity div.share-panel div.share-panel-article {
+  background: #ffffff;
+  width: 100%;
+  display: block;
+  padding: 20px;
+  margin: 0px auto;
+  position: relative;
+  vertical-align: middle;
+  text-align: left;
+  z-index: 100;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 34px rgba(0, 0, 0, 0.12);
+}
+body.single div.meta.activity div.share-panel a.gourmand-icon-cancel-5,
+body.page div.meta.activity div.share-panel a.gourmand-icon-cancel-5 {
+  position: absolute;
+  color: rgba(0, 0, 0, 0.3);
+  line-height: 20px;
+  font-size: 16px;
+  top: 5px;
+  right: 5px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+body.single div.meta.activity div.share-panel a.gourmand-icon-cancel-5:hover,
+body.page div.meta.activity div.share-panel a.gourmand-icon-cancel-5:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper {
+  position: relative;
+  margin: 0px 0px 24px 0px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-top-right-radius: 4px;
+  border-top-right-radius: 4px;
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-top-left-radius: 4px;
+  border-top-left-radius: 4px;
+}
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper img,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper img,
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper picture,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper picture {
+  max-width: 100%;
+}
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5 {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.8);
+  display: block;
+  font-size: 14px;
+  line-height: 28px;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+}
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:before,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:before,
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5::before,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5::before {
+  display: block;
+  font-size: 14px;
+  line-height: 28px;
+  width: 28px;
+  height: 28px;
+}
+body.single div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:hover,
+body.page div.meta.activity div.share-panel div.thumbnail-wrapper a.gourmand-icon-cancel-5:hover {
+  background: rgba(0, 0, 0, 0.85);
+  color: #ffffff;
+}
+body.single div.meta.activity div.share-panel div.content-wrapper,
+body.page div.meta.activity div.share-panel div.content-wrapper {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+body.single div.meta.activity div.share-panel div.content-wrapper h3.title,
+body.page div.meta.activity div.share-panel div.content-wrapper h3.title {
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  margin: 0px 0px 20px 0px;
+}
+body.single div.meta.activity div.share-panel div.content-wrapper p,
+body.page div.meta.activity div.share-panel div.content-wrapper p {
+  color: #999999;
+  margin: 0px;
+  font-size: 13px;
+  line-height: 22px;
+  font-weight: normal;
+  text-shadow: none;
+}
+body.single div.meta.activity div.share-panel div.share-items strong,
+body.page div.meta.activity div.share-panel div.share-items strong {
+  color: #000000;
+  display: block;
+  margin-bottom: 15px;
+}
+body.single div.meta.activity div.share-panel div.share-items div.post-url,
+body.page div.meta.activity div.share-panel div.share-items div.post-url {
+  margin-top: 15px;
+}
+body.single div.meta.activity div.share-panel div.share-items div.post-url input,
+body.page div.meta.activity div.share-panel div.share-items div.post-url input {
+  width: 100%;
+  padding: 3px 5px;
+}
+body.single div.meta.activity a.comments + span.social-share,
+body.page div.meta.activity a.comments + span.social-share {
+  margin-left: 10px;
+}
+body.single div.meta.activity span.source,
+body.page div.meta.activity span.source {
+  border: 2px solid #f3f3f3;
+  position: relative;
+  color: #bbc2c9;
+  display: inline-block;
+  float: right;
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 300;
+  padding: 6px 18px;
+  cursor: copy;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+body.single div.meta.activity span.source:first-child,
+body.page div.meta.activity span.source:first-child {
+  float: left;
+}
+body.single div.meta.activity span.source i,
+body.page div.meta.activity span.source i {
+  color: #ffffff;
+  background: #233141;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: center;
+  top: 2px;
+  left: 2px;
+  overflow: hidden;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+body.single div.meta.activity span.source i:before,
+body.page div.meta.activity span.source i:before {
+  width: 36px;
+  height: 36px;
+  text-align: center;
+  margin-left: -2px;
+}
+body.single div.meta.activity span.source input,
+body.page div.meta.activity span.source input {
+  background: transparent;
+  border: none;
+  display: inline-block;
+  font-weight: bold;
+  float: right;
+  color: #233141;
+  cursor: copy;
+  padding: 3px 0px 5px 5px;
+  margin: 1px 0px -1px 0px;
+  max-width: 135px;
+  height: 24px;
+  line-height: 12px;
+}
+@media (max-width: 540px) {
+  body.single div.meta.activity span.source,
+  body.page div.meta.activity span.source {
+    display: none;
+  }
+}
+body.single div.meta.activity:after,
+body.page div.meta.activity:after {
+  content: '';
+  clear: both;
+  display: table;
+  width: 100%;
+}
+body.single div.meta.activity + div.hentry,
+body.page div.meta.activity + div.hentry,
+body.single div.meta.activity + div.gourmand-author-wrapper,
+body.page div.meta.activity + div.gourmand-author-wrapper,
+body.single div.meta.activity + div.gourmand-comments-wrapper,
+body.page div.meta.activity + div.gourmand-comments-wrapper {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  body.single div.meta.activity + div.hentry,
+  body.page div.meta.activity + div.hentry,
+  body.single div.meta.activity + div.gourmand-author-wrapper,
+  body.page div.meta.activity + div.gourmand-author-wrapper,
+  body.single div.meta.activity + div.gourmand-comments-wrapper,
+  body.page div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single div.meta.activity + div.hentry,
+  body.page div.meta.activity + div.hentry,
+  body.single div.meta.activity + div.gourmand-author-wrapper,
+  body.page div.meta.activity + div.gourmand-author-wrapper,
+  body.single div.meta.activity + div.gourmand-comments-wrapper,
+  body.page div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single div.meta.activity + div.hentry,
+  body.page div.meta.activity + div.hentry,
+  body.single div.meta.activity + div.gourmand-author-wrapper,
+  body.page div.meta.activity + div.gourmand-author-wrapper,
+  body.single div.meta.activity + div.gourmand-comments-wrapper,
+  body.page div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single div.meta.activity + div.hentry,
+  body.page div.meta.activity + div.hentry,
+  body.single div.meta.activity + div.gourmand-author-wrapper,
+  body.page div.meta.activity + div.gourmand-author-wrapper,
+  body.single div.meta.activity + div.gourmand-comments-wrapper,
+  body.page div.meta.activity + div.gourmand-comments-wrapper {
+    margin-top: 14px;
+  }
+}
+body.single h1.title,
+body.page h1.title {
+  color: #233141;
+}
+body.single h2.subtitle,
+body.page h2.subtitle {
+  color: rgba(57, 80, 106, 0.85);
+}
+body.single p.description,
+body.page p.description {
+  color: rgba(57, 80, 106, 0.65);
+}
+body.single h1.title + .hentry,
+body.page h1.title + .hentry {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  body.single h1.title + .hentry,
+  body.page h1.title + .hentry {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single h1.title + .hentry,
+  body.page h1.title + .hentry {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single h1.title + .hentry,
+  body.page h1.title + .hentry {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single h1.title + .hentry,
+  body.page h1.title + .hentry {
+    margin-top: 14px;
+  }
+}
+body.single div.meta + .hentry,
+body.page div.meta + .hentry {
+  margin-top: 40px;
+}
+@media (max-width: 1199px) {
+  body.single div.meta + .hentry,
+  body.page div.meta + .hentry {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single div.meta + .hentry,
+  body.page div.meta + .hentry {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single div.meta + .hentry,
+  body.page div.meta + .hentry {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single div.meta + .hentry,
+  body.page div.meta + .hentry {
+    margin-top: 14px;
+  }
+}
+body.single .hentry twitterwidget,
+body.page .hentry twitterwidget {
+  margin: 40px auto!important;
+}
+@media (max-width: 767px) {
+  body.single .hentry twitterwidget,
+  body.page .hentry twitterwidget {
+    margin: 32px auto!important;
+  }
+}
+@media (max-width: 540px) {
+  body.single .hentry twitterwidget,
+  body.page .hentry twitterwidget {
+    margin: 28px auto!important;
+  }
+}
+@media (max-width: 480px) {
+  body.single .hentry twitterwidget,
+  body.page .hentry twitterwidget {
+    margin: 24px auto!important;
+  }
+}
+body.single div.gourmand-content .thumbnail-wrapper,
+body.page div.gourmand-content .thumbnail-wrapper {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.12);
+}
+@media (max-width: 1199px) {
+  body.single div.gourmand-content .thumbnail-wrapper,
+  body.page div.gourmand-content .thumbnail-wrapper {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 767px) {
+  body.single div.gourmand-content .thumbnail-wrapper,
+  body.page div.gourmand-content .thumbnail-wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 540px) {
+  body.single div.gourmand-content .thumbnail-wrapper,
+  body.page div.gourmand-content .thumbnail-wrapper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 480px) {
+  body.single div.gourmand-content .thumbnail-wrapper,
+  body.page div.gourmand-content .thumbnail-wrapper {
+    margin-top: 14px;
+    margin-bottom: 14px;
+  }
+}
+body.single div.gourmand-content .thumbnail-wrapper img,
+body.page div.gourmand-content .thumbnail-wrapper img,
+body.single div.gourmand-content .thumbnail-wrapper picture,
+body.page div.gourmand-content .thumbnail-wrapper picture {
+  display: block;
+  max-width: 100%;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+body.single div.gourmand-content .thumbnail-wrapper .image-wrapper,
+body.page div.gourmand-content .thumbnail-wrapper .image-wrapper {
+  position: relative;
+  display: block;
+  text-align: left;
+}
+body.single div.gourmand-content .thumbnail-wrapper .image-wrapper span,
+body.page div.gourmand-content .thumbnail-wrapper .image-wrapper span {
+  background: rgba(0, 0, 0, 0);
+  top: 0px;
+  left: 0px;
+  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: -ms-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: -o-linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0) 20%);
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+body.single div.gourmand-content .thumbnail-wrapper .image-wrapper span span,
+body.page div.gourmand-content .thumbnail-wrapper .image-wrapper span span {
+  width: 100%;
+  max-width: 640px;
+  padding: 25px;
+  color: #ffffff;
+  line-height: 22px;
+  margin-bottom: -100%;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+body.single div.gourmand-content .thumbnail-wrapper .image-wrapper span:hover,
+body.page div.gourmand-content .thumbnail-wrapper .image-wrapper span:hover {
+  background: transparent;
+  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: -ms-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: -o-linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6) 80%);
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+body.single div.gourmand-content .thumbnail-wrapper .image-wrapper span:hover span,
+body.page div.gourmand-content .thumbnail-wrapper .image-wrapper span:hover span {
+  margin-bottom: 0px;
+}
+body.single div.meta.categories a,
+body.page div.meta.categories a {
+  color: rgba(57, 80, 106, 0.85);
+}
+body.single div.meta.categories a:before,
+body.page div.meta.categories a:before {
+  background: rgba(57, 80, 106, 0.5);
+}
+body.single div.meta.categories a:hover,
+body.page div.meta.categories a:hover {
+  color: #233141;
+}
+body.single div.meta.categories a:hover:before,
+body.page div.meta.categories a:hover:before {
+  background: rgba(57, 80, 106, 0.8);
+}
+body.page .header-partial #gourmand-header-wrapper h1.title {
+  margin-top: 0px;
+}
+body.page h1.title {
+  margin-top: 0px;
+}
+body.page.page-antet-alignment-left .header-partial #gourmand-header-wrapper {
+  text-align: left;
+}
+body.page.page-antet-alignment-left .header-partial #gourmand-header-wrapper h1.title,
+body.page.page-antet-alignment-left .header-partial #gourmand-header-wrapper h2.subtitle,
+body.page.page-antet-alignment-left .header-partial #gourmand-header-wrapper p.description {
+  text-align: left;
+  margin-right: auto;
+  margin-left: 0px;
+}
+body.page.page-antet-alignment-left h1.title,
+body.page.page-antet-alignment-left h2.subtitle,
+body.page.page-antet-alignment-left p.description {
+  text-align: left;
+  margin-right: auto;
+  margin-left: 0px;
+}
+body.page.page-antet-alignment-left div.meta.activity {
+  text-align: left;
+}
+body.page.page-antet-alignment-left div.meta.activity span.source {
+  float: left;
+}
+body.page.page-antet-alignment-left.has-multiple-activity div.meta.activity span.source {
+  float: right;
+}
+body.page.page-antet-alignment-right .header-partial #gourmand-header-wrapper {
+  text-align: right;
+}
+body.page.page-antet-alignment-right .header-partial #gourmand-header-wrapper h1.title,
+body.page.page-antet-alignment-right .header-partial #gourmand-header-wrapper h2.subtitle,
+body.page.page-antet-alignment-right .header-partial #gourmand-header-wrapper p.description {
+  text-align: right;
+  margin-left: auto;
+  margin-right: 0px;
+}
+body.page.page-antet-alignment-right h1.title,
+body.page.page-antet-alignment-right h2.subtitle,
+body.page.page-antet-alignment-right p.description {
+  text-align: right;
+  margin-left: auto;
+  margin-right: 0px;
+}
+body.page.page-antet-alignment-right div.meta.activity {
+  text-align: right;
+}
+body.page.page-antet-alignment-right div.meta.activity span.source {
+  float: right;
+}
+body.page.page-antet-alignment-right.has-multiple-activity div.meta.activity {
+  text-align: left;
+}
+body.page.page-antet-alignment-center .header-partial #gourmand-header-wrapper {
+  text-align: center;
+}
+body.page.page-antet-alignment-center .header-partial #gourmand-header-wrapper h1.title,
+body.page.page-antet-alignment-center .header-partial #gourmand-header-wrapper h2.subtitle,
+body.page.page-antet-alignment-center .header-partial #gourmand-header-wrapper p.description {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body.page.page-antet-alignment-center h1.title,
+body.page.page-antet-alignment-center h2.subtitle,
+body.page.page-antet-alignment-center p.description {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body.page.page-antet-alignment-center div.meta.activity {
+  text-align: center;
+}
+body.page.page-antet-alignment-center div.meta.activity span.source {
+  float: none;
+}
+body.page.page-antet-alignment-center.has-multiple-activity div.meta.activity {
+  text-align: left;
+}
+body.page.page-antet-alignment-center.has-multiple-activity div.meta.activity span.source {
+  float: right;
+}
+div.meta.bottom {
+  display: block;
+  font-size: 0px;
+  line-height: 0px;
+  margin: 35px 0px;
+}
+@media (max-width: 1199px) {
+  div.meta.bottom {
+    margin: 25px 0px;
+  }
+}
+@media (max-width: 767px) {
+  div.meta.bottom {
+    margin: 15px 0px;
+  }
+}
+@media (max-width: 540px) {
+  div.meta.bottom {
+    margin: 10px 0px;
+  }
+}
+@media (max-width: 480px) {
+  div.meta.bottom {
+    margin: 9px 0px;
+  }
+}
+div.meta.bottom .terms.tags {
+  margin: -5px;
+}
+div.meta.bottom a {
+  background: #f3f3f3;
+  color: #233141;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 24px;
+  font-weight: bold;
+  padding: 8px 25px;
+  margin: 5px;
+  text-transform: uppercase;
+  letter-spacing: .25px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+div.meta.bottom a:hover {
+  background: #233141;
+  color: #ffffff;
+}
+div.gourmand-author-wrapper {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 40px 0px;
+}
+@media (max-width: 991px) {
+  div.gourmand-author-wrapper {
+    padding: 36px 0px;
+  }
+}
+@media (max-width: 767px) {
+  div.gourmand-author-wrapper {
+    padding: 34px 0px;
+  }
+}
+@media (max-width: 540px) {
+  div.gourmand-author-wrapper {
+    padding: 32px 0px;
+  }
+}
+@media (max-width: 480px) {
+  div.gourmand-author-wrapper {
+    padding: 30px 0px;
+  }
+}
+div.hentry + div.gourmand-author-wrapper {
+  margin-top: 40px;
+}
+@media (max-width: 991px) {
+  div.hentry + div.gourmand-author-wrapper {
+    margin-top: 36px;
+  }
+}
+@media (max-width: 767px) {
+  div.hentry + div.gourmand-author-wrapper {
+    margin-top: 34px;
+  }
+}
+@media (max-width: 540px) {
+  div.hentry + div.gourmand-author-wrapper {
+    margin-top: 32px;
+  }
+}
+@media (max-width: 480px) {
+  div.hentry + div.gourmand-author-wrapper {
+    margin-top: 30px;
+  }
+}
+div.gourmand-author {
+  padding-left: 190px;
+}
+@media (max-width: 767px) {
+  div.gourmand-author {
+    padding-left: 150px;
+  }
+}
+@media (max-width: 640px) {
+  div.gourmand-author {
+    padding-left: 125px;
+  }
+}
+@media (max-width: 540px) {
+  div.gourmand-author {
+    padding-left: 0px;
+    text-align: center;
+  }
+}
+div.gourmand-author div.gourmand-author-avatar {
+  width: 150px;
+  height: 150px;
+  margin-left: -190px;
+  float: left;
+  -webkit-box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.12);
+}
+div.gourmand-author div.gourmand-author-avatar,
+div.gourmand-author div.gourmand-author-avatar a,
+div.gourmand-author div.gourmand-author-avatar img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+@media (max-width: 767px) {
+  div.gourmand-author div.gourmand-author-avatar {
+    width: 120px;
+    height: 120px;
+    margin-left: -150px;
+  }
+}
+@media (max-width: 640px) {
+  div.gourmand-author div.gourmand-author-avatar {
+    width: 100px;
+    height: 100px;
+    margin-left: -125px;
+  }
+}
+@media (max-width: 540px) {
+  div.gourmand-author div.gourmand-author-avatar {
+    width: 80px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-bottom: 20px;
+  }
+}
+div.gourmand-author h4.gourmand-author-name {
+  color: #233141;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: -0.15px;
+  font-weight: bold;
+  display: block;
+  margin-top: 0px;
+}
+@media (max-width: 991px) {
+  div.gourmand-author h4.gourmand-author-name {
+    font-size: 22px;
+    line-height: 38px;
+  }
+}
+@media (max-width: 767px) {
+  div.gourmand-author h4.gourmand-author-name {
+    font-size: 20px;
+    line-height: 36px;
+  }
+}
+@media (max-width: 540px) {
+  div.gourmand-author h4.gourmand-author-name {
+    font-size: 18px;
+    line-height: 34px;
+  }
+}
+@media (max-width: 480px) {
+  div.gourmand-author h4.gourmand-author-name {
+    font-size: 18px;
+    line-height: 34px;
+  }
+}
+div.gourmand-author h4.gourmand-author-name a {
+  color: #233141;
+  display: block;
+}
+div.gourmand-author h4.gourmand-author-name a:hover {
+  color: #ef4836;
+}
+div.gourmand-author p {
+  color: #454545;
+  margin-bottom: 0px;
+  font-weight: 300;
+}

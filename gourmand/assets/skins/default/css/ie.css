@@ -1,0 +1,18 @@
+.flex-container .flex-item {
+  display: table-cell;
+}
+.flex-container.valign-top,
+.flex-container.valign-top .flex-item {
+  valign: top;
+  vertical-align: top;
+}
+.flex-container.valign-middle,
+.flex-container.valign-middle .flex-item {
+  valign: middle;
+  vertical-align: middle;
+}
+.flex-container.valign-bottom,
+.flex-container.valign-bottom .flex-item {
+  valign: bottom;
+  vertical-align: bottom;
+}

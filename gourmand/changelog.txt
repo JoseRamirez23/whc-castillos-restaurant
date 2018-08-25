@@ -1,0 +1,55 @@
+version 0.0.14 ( July 19, 2018 )
+-------------------------------------------------------
+- Design Improvements for Social share on small devices
+- Design Improvements for Call Action Section
+- Design Improvemend for About Page ( Admin Dashboard )
+
+version 0.0.13 ( July 18, 2018 )
+-------------------------------------------------------
+- Design Improvements for Footer Small Social Items
+- Added other small Design Improvements
+
+version 0.0.12 ( July 6, 2018 )
+-------------------------------------------------------
+- Add Footer widgets with 1 - 6 columns
+- Add Footer widgets Fix and Fluid Width
+
+version 0.0.11 ( July 4, 2018 )
+-------------------------------------------------------
+- Header Design Improvements ( remove bottom border if exists header )
+- Footer Social Links ( small ) Design Improvements ( background color and space )
+
+version 0.0.10 ( July 2, 2018 )
+-------------------------------------------------------
+- Section Design Improvements & Browsers Compatibility
+
+version 0.0.9 ( June 29, 2018 )
+-------------------------------------------------------
+- sanitize and escaped all data and fixed most part of warnings ( Theme Sniffer )
+- fixed all errors ( Theme Sniffer )
+- move the gourmand-dishes.php in the plugins
+
+version 0.0.8 ( June 27, 2018 )
+-------------------------------------------------------
+- readme.txt Improvements
+- replace the non GPL Compatible images with images licensed under CC0
+
+version 0.0.7 ( June 21, 2018 )
+-------------------------------------------------------
+- Setup Improvements
+- User interaction Improvements
+
+version 0.0.6 ( June 20, 2018 )
+-------------------------------------------------------
+- Setup Improvements
+- Add new settings: Tools / Background Color
+- Add new settings: Blog / Article Word
+- Search Improvements
+
+version 0.0.5 ( June 13, 2018 )
+-------------------------------------------------------
+- Improvements for Customizer custom Uploader Settings
+- Improvements for Customizer / Front Page ( Content ) / Call Action Section
+- Improvements for Footer Sidebar Design
+- Added Options in Customizer / Footer / Dark Sidebar
+- Added Url and Target Options for Customizer / Front Page ( Content ) / Services Section

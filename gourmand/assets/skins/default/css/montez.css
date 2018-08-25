@@ -1,0 +1,7 @@
+.cursive,
+div.gourmand-site-identity a.site-title,
+.daily-dishes li.dish span.price,
+.chef-menu li.dish span.price,
+.grid-view article .meta.top a.author {
+  font-family: Montez, cursive;
+}
